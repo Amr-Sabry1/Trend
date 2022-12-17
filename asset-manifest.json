@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trend/static/css/main.f8079dae.css",
+    "main.js": "/Trend/static/js/main.13e829fe.js",
+    "static/media/fa-solid-900.ttf": "/Trend/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Trend/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Trend/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/Lyfnci.webp": "/Trend/static/media/Lyfnci.7c71a38d61d0898e63d6.webp",
+    "static/media/fa-brands-400.woff2": "/Trend/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Trend/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Trend/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Trend/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Trend/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Trend/index.html",
+    "main.f8079dae.css.map": "/Trend/static/css/main.f8079dae.css.map",
+    "main.13e829fe.js.map": "/Trend/static/js/main.13e829fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8079dae.css",
+    "static/js/main.13e829fe.js"
+  ]
+}
