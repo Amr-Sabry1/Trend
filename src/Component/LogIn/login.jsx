@@ -32,9 +32,9 @@ let navigate =useNavigate()
        for (var i = 0; i < userList.length; i++) {
             if (userList[i].email.toLowerCase() == user.email.toLowerCase() && userList[i].password.toLowerCase() == user.password.toLowerCase()) {
          let name =userList[i].first_name.concat(" ",userList[i].last_name)    
-               localStorage.setItem("userName", name)
+         localStorage.setItem("userName", name)
 
-               window.location.assign("/home")
+               navigate("/home")
             
                 return
             }
