@@ -170,3 +170,7 @@ footer p {
 .pagination p {
     cursor: pointer;
 }
+
+.nav-item p {
+    cursor: pointer;
+}
