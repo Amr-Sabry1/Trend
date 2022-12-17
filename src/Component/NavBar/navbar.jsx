@@ -53,7 +53,7 @@ function deleteuname(){
        {uname? <>     <li className="nav-item">
           <p className="nav-link m-0 text-uppercase text-white" >{uname}</p>
         </li><li className="nav-item">
-          <a className="nav-link text-bg-primary text-center bg-opacity-25 rounded-3 p-2" href='/' onClick={()=>deleteuname()} >Log Out</a>
+          <a className="nav-link text-bg-primary text-center bg-opacity-25 rounded-3 p-2" onClick={()=>deleteuname()} >Log Out</a>
         </li>
        
         </>:<><li className="nav-item">

@@ -35,7 +35,7 @@ let navigate =useNavigate()
          localStorage.setItem("userName", name)
 
                navigate("/home")
-              // window.location.reload();
+            
                 return
             }
             document.getElementById("exist").innerHTML = `<span class="text-danger">Email or Password incorrect</span>`
