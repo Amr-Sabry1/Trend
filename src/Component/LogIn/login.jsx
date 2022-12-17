@@ -34,7 +34,7 @@ let navigate =useNavigate()
          let name =userList[i].first_name.concat(" ",userList[i].last_name)    
          localStorage.setItem("userName", name)
 
-               navigate("home")
+               navigate("/home")
               window.location.reload();
                 return
             }
