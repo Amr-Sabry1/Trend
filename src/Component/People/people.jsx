@@ -15,9 +15,11 @@ setPeople(data.results)
 console.log(data.results); 
 setisLoading(false)
 }
+
   useEffect(()=>{
    getTrending(1)
   },[])
+  
      function paginate(page){
    getTrending(page)
 

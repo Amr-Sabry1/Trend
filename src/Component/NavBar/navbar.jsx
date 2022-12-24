@@ -14,7 +14,7 @@ let navigate = useNavigate()
 
 function deleteuname(){
   localStorage.removeItem("userName")
- navigate("/")
+ navigate("/Trend")
   
 }
   return (

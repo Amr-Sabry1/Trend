@@ -32,6 +32,8 @@ const routers= createBrowserRouter([
     {path:"contact",element:<ProtectedRoute><Contact/></ProtectedRoute>},
       {path:"register",element:<Register/>},
         {index:true,element:<LogIn/>},
+        {path:"Trend" ,element:<LogIn/>},
+
           {path:"movies",element:<ProtectedRoute><Movies/></ProtectedRoute>},
             {path:"tvshows",element:<ProtectedRoute><TvShows/></ProtectedRoute>},
             {path:"details/:id/:type",element:<ProtectedRoute><Details/></ProtectedRoute>},
